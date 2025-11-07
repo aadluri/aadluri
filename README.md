@@ -13,11 +13,10 @@ Hi! I'm Archita, a computational chemist transitioning into the world of data en
 ---
 ## Data Analytics Projects - Still a work in progress. 
 Trying to display my skills by building smaller projects. 
-1. ** Food Pricing Volatility Project** Made with Carl Mcgarry, this is a large project that downloads Statscan data, filters/formats the data into several tables (bridge, data, geo) for PowerBI reporting. there is also a volatility model (random forest plus various hyperparameter tuning) and a streamlit app for both viewing the data and predicting volatility. Currently only the 3 month-over month forecats is accurate, the 3-year window needs some finetuning. The aim was to create a tool that nonprofits and food advocacy groups can use in their data analysis. 
+1. ** Food Pricing Volatility Project** Made with Carl Mcgarry, this is a large project that downloads Statscan data, filters/formats the data into several tables (bridge, data, geo) for PowerBI reporting. there is also a volatility model (random forest plus various hyperparameter tuning) and a streamlit app for both viewing the data and predicting volatility. Currently only the 3 month-over month forecats is accurate, the 3-year window needs some finetuning. The aim was to create a tool that nonprofits and food advocacy groups can use in their data analysis.
+2. 
+3. ** Trendalyzer **  - analyzing colour and sentiment from reddit homedecor subreddits. Working towards creating a prototype that creates dashboards, then will try to expand into a general use case that analyzes any style, fashion or decor subreddit for colour and text trends.
 
-2. **Vancouver Crime Data**
-   - Python (Jupyter) visualizatoin and analysis of Vancouver crime data from Kaggle
----
 
 ### Let's Connect! : [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/archita-adluri/))
 
