@@ -1,4 +1,7 @@
-Hi! I'm Archita, a computational chemist transitioning into the world of data engineering. I have a background in Computational Chemistry (statstical modeling, electronic structure calcs, ab initio and molecular dynamics and CPMD  simulations of molecules and solids esp semicnoductors)  high-performance computing (HPC), Python and Bash/UNIX, I'm now diving into tools like Machine learning and Data Science.
+Hi! I'm Archita, a computational chemist transitioning into the world of Software and Scientific Computing.
+This is my personal Github, I work as a FullStack Dev and AI/ML Engineer at a biotech startup!
+
+I have a background in Computational Chemistry (statstical modeling, electronic structure calcs, ab initio and molecular dynamics and CPMD  simulations of molecules and solids esp semicnoductors)  high-performance computing (HPC), Python and Bash/UNIX, I'm now diving into tools like Machine learning and Data Science.
 
 ## Academic Projects
 1. **(Paper):** [Tuning the Dielectric Response in a Nanocomposite Material through Nanoparticle Morphology](https://doi.org/10.1039/D1RA07472E)
@@ -12,10 +15,6 @@ Hi! I'm Archita, a computational chemist transitioning into the world of data en
    - Goal: Examine the effects of interacting molecular metal nanoparticles on dielectric function with repsect to induced fields within polymer.
 ---
 ## Data Analytics Projects - Still a work in progress. 
-Trying to display my skills by building smaller projects. 
-1. ** Food Pricing Volatility Project** Made with Carl Mcgarry, this is a large project that downloads Statscan data, filters/formats the data into several tables (bridge, data, geo) for PowerBI reporting. there is also a volatility model (random forest plus various hyperparameter tuning) and a streamlit app for both viewing the data and predicting volatility. Currently only the 3 month-over month forecats is accurate, the 3-year window needs some finetuning. The aim was to create a tool that nonprofits and food advocacy groups can use in their data analysis.
-2. ** Trendalyzer **  - analyzing colour and sentiment from reddit homedecor subreddits. Working towards creating a prototype that creates dashboards, then will try to expand into a general use case that analyzes any style, fashion or decor subreddit for colour and text trends.
-
 
 ### Let's Connect! : [LinkedIn]([https://www.linkedin.com/in/archita-adluri/](https://www.linkedin.com/in/archita-adluri/))
 
